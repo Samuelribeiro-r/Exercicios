@@ -28,3 +28,4 @@ var valorFinal = igresso1 + igresso2
 console.log("O valor total do ingresso é: " + valorFinal)
 
 alert("O valor total do ingresso é: " + valorFinal);
+// Fim do código
